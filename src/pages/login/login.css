@@ -1,0 +1,26 @@
+.linkconfig{
+    display: flex;
+    justify-content: center;
+    color: white !important;
+    outline: none;
+    text-decoration: none;
+}
+.bt{
+    background-color: #91B8C1;
+    display: flex;
+    justify-content: center;
+    width: 400px;
+}
+
+.loginbtn{
+    width: 300px;
+    height: auto;
+    border-radius: 20px;
+    background-color: #568281;
+    color: #fff;
+}
+
+.cd{
+    color: white;
+    background-color: rgb(252, 0, 0);
+}
