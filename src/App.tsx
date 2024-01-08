@@ -1,5 +1,6 @@
 import { Route, Routes } from "react-router-dom";
 import { Login } from "./pages/login/login";
+import { Register } from "./pages/singup/singup";
 import { Header } from "./components/header/header";
 import './style/global.css'
 

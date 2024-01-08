@@ -1,0 +1,9 @@
+.birthdate-container {
+ display: flex;
+ gap: 8px;
+}
+
+.birthdate-container select {
+ padding: 8px;
+ font-size: 14px;
+}

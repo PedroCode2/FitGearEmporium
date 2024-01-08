@@ -1,15 +1,22 @@
 .linkconfig{
     display: flex;
     justify-content: center;
-    color: white !important;
+    color: black;
     outline: none;
     text-decoration: none;
 }
-.bt{
+.Login{
     background-color: #91B8C1;
     display: flex;
     justify-content: center;
-    width: 400px;
+    margin-top: 10rem;
+    padding: auto;
+    width: 40rem;
+
+    border-radius: 10px;
+}
+.cd{
+    width:85%;
 }
 
 .loginbtn{
@@ -20,7 +27,23 @@
     color: #fff;
 }
 
-.cd{
-    color: white;
-    background-color: rgb(252, 0, 0);
+.login-form {
+ max-width: 500px;
+ margin: 50px auto;
+ padding: 30px;
+}
+
+.btn-google,
+.btn-twitter,
+.btn-facebook {
+ width: 100%;
+ border-radius: 15px;
+}
+
+.btn-login {
+ width: 100%;
+ margin-top: 20px;
+}
+.form-control{
+    border-radius: 30px;
 }
